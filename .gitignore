@@ -1,0 +1,5 @@
+# Packed extension
+*.crx
+
+# keys to pack the extension
+*.pem
